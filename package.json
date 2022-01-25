@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.0",
+    "yarn": "^1.22.17"
+  },
+  "name": "frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ericstran/redstone-site.git",
+  "license": "MIT"
+}
